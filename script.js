@@ -147,5 +147,3 @@ if (window.paypal) {
 // Inicializar
 filtrarPorCategoria();
 cargarCarrito();
-
-
